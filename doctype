@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Resume</title>
+  </head>
+</html>
+
+<body>
+  <h1>Rahnuma Tasneem</h1>
+  <img src="./DSC_0497.JPG" alt="portfolio image" height="100">
+  <h2>Summary</h2>
+  <p>
+    I am an inquisitive and lively individual who enjoys discovering new facets of the world and building connections with others.
+  </p>
+  <hr>
+
+  <h2>Education</h2>
+  <ul>
+    <li>User Experience Design, 2 Year, 2020-2023, Hyper Island, Sweden.</li>
+    <li>Masters in Service Management, 2 Year, 2018-2020, Karlstad University, Sweden.</li>
+    <li>Masters in Bank Management, 2 Year, 2013-2015, DSBM, Bangladesh.</li>
+    <li>Bachelor in Business Administration, 4 Year, 2008-2012, EWU, Bangladesh.</li>
+  </ul>
+  <hr>
+
+  <h2>Work Experience</h2>
+  <ul>
+    <li> 
+      <h3>User Experience Designer-SEB Bank</h3>
+    </li>
+    <ul>
+      <li>User Research</li>
+      <li>Prototype</li>
+      <li>Ideation</li>
+      <li>Collaborate with FED</li>
+    </ul>
+    
+    <li>
+      <h3>User Experience Designer-Volvo Cars</h3>
+    </li>
+    <ul>
+      <li>User Research</li>
+      <li>Survey & Interview</li>
+      <li>Information architecture</li>
+      <li>Prototyping</li>
+    </ul>
+  </ul>
+  
+  <hr>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>User Research</li>
+    <li>Information Architecture</li>
+    <li>Usability Testing</li>
+    <li>Design Thinking</li>
+  </ul>
+  <hr>
+
+  <h2>Certifications</h2>
+  <ul>
+    <li>Certificate of Completion-Figma for UXD</li>
+    <li>Google Analytics Essential Training</li>
+    <li>Google Deep Diving Analyzing</li>
+    <li>Google 360 Suit</li>
+  </ul>
+  <hr>
+
+  <h2>Other</h2>
+  <ul>
+    <li>
+      <a href="./my-hobbies.html" >My Hobbies</a>
+    </li>
+    <li>
+      <a href="./ContactMe.html" >Contact Me</a>
+      </li>
+    
+  </ul>
+  <hr>
+
+  <footer>
+    <p>© 2024 RaTa. All rights reserved</p>
+  </footer>
+</body>
